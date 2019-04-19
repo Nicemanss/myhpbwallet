@@ -1,5 +1,4 @@
 ### [https://myhpbwallet.com](https://myhpbwallet.com)
-### [Download the Latest Release](https://github.com/Nicemanss/myhpbwallet)
 
 ### MyHPBWallet
 
