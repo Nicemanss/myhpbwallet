@@ -1,8 +1,5 @@
 ### [https://myhpbwallet.com](https://myhpbwallet.com)
-Created by Nicemans.
-
 ### [Download the Latest Release](https://github.com/Nicemanss/myhpbwallet)
-
 
 ### MyHPBWallet
 
