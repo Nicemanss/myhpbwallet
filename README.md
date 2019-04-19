@@ -1,18 +1,18 @@
-### [https://hpb.blue](https://hpb.blue)
+### [https://myhpbwallet.com](https://myhpbwallet.com)
 Created by Nicemans.
 
-### [Download the Latest Release](https://github.com/Nicemanss/hpb.blue)
+### [Download the Latest Release](https://github.com/Nicemanss/myhpbwallet)
 
--  hpb.blue donation Address: 0x6B668c559600186477bAF091fC572ffdCcA7d8Ea
+
+### MyHPBWallet
+
+- MyHPBWallet is a free, open-source, client-side tool for easily & securely interacting with the HPB network.
+
+- MyHPBWallet is created by Nicemans and it is based on MyEtherWallet which has been rewritten to work with the HPB Network. MyEtherWallet was created and is maintained by [kvhnuke](https://github.com/kvhnuke) and [tayvano](https://github.com/tayvano).
+
+-  MyHPBWallet donation Address: 0x6B668c559600186477bAF091fC572ffdCcA7d8Ea
 
 - The wallet uses a sync node operated by Nicemans, running on AWS.
-
-### hpb.blue
-
-- hpb.blue is a free, open-source, client-side tool for easily & securely interacting with the HPB network.
-
-- hpb.blue is based on MyEtherWallet which has been rewritten to work with the HPB Network. MyEtherWallet was created and is maintained by [kvhnuke](https://github.com/kvhnuke) and [tayvano](https://github.com/tayvano).
-
 
 #### Features
 
@@ -34,19 +34,19 @@ Created by Nicemans.
  - **Open source & audit-able**
 
 
-### Users (non-developers)
+### Users
 
-- You can run hpb.blue on your computer. You can create a wallet completely offline.
+- You can run MyHPBWallet on your computer. You can create a wallet completely offline.
 
 1. Go to https://github.com/Nicemanss/hpbwallet .
 2. Click on "Clone or download".
 3. Click on Download Zip.
 4. Unzip it and double-click index.html.
-5. hpb.blue is now running entirely on your computer.
+5. MyHPBWallet is now running entirely on your computer.
 
-In case you are not familiar, you need to keep the entire folder in order to run the website, not just index.html. Don't touch or move anything around in the folder. If you are storing a backup of the hpb.blue repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact.
+In case you are not familiar, you need to keep the entire folder in order to run the website, not just index.html. Don't touch or move anything around in the folder. If you are storing a backup of the MyHPBWallet repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact.
 
-As we are constantly updating hpb.blue, we recommend you periodically update your saved version of the repo.
+As we are constantly updating MyHPBWallet, we recommend you periodically update your saved version of the repo.
 
 
 ### Use Your Own Servers / Node Guide
@@ -54,4 +54,4 @@ As we are constantly updating hpb.blue, we recommend you periodically update you
 - [Setting up on AWS](https://github.com/hpb-project/hpb-release/tree/master/docker)
 
 
-#### hpb.blue are licensed under The MIT License (MIT).
+#### MyHPBWallet are licensed under The MIT License (MIT).
