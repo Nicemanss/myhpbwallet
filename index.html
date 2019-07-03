@@ -92,13 +92,13 @@
     
       <a class="brand" href="/" aria-label="Go to homepage">
         <img src="images/logo-MyHPBWallet.png" height="45px" width="45px" alt="HPB Wallet" /> MyHPBWallet
-        <p class="small visible-xs">v0.0.3</p>
+        <p class="small visible-xs">v0.0.4</p>
       </a>
     
     
     <div class="tagline">
 
-    <span class="hidden-xs">v0.0.3</span>
+    <span class="hidden-xs">v0.0.4</span>
 
     </div>
   </section>
@@ -261,32 +261,6 @@
       <h1 translate="NAV_GenerateWallet" aria-live="polite">
         Create New Wallet
       </h1>
-      <h4 translate="GEN_Label_1">
-        Enter password
-      </h4>
-      <div class="input-group">
-        <input name="password"
-             class="form-control"
-             type="{{showPass && 'password' || 'text'}}"
-             placeholder="{{'GEN_Placeholder_1' | translate }}"
-             ng-model="password"
-             ng-class="isStrongPass() ? 'is-valid' : 'is-invalid'"
-             aria-label="{{'GEN_Label_1' | translate}}"
-             />
-        <span tabindex="0"
-              aria-label="make password visible"
-              role="button"
-              class="input-group-addon eye"
-              ng-click="showPass=!showPass">
-        </span>
-      </div>
-      <a tabindex="0"
-         role="button"
-         class="btn btn-primary"
-         ng-click="genNewWallet()"
-         translate="NAV_GenerateWallet">
-           Generate Wallet
-      </a>
       <article class="modal fade" id="appleMobileModal" tabindex="-1">
   <section class="modal-dialog">
     <section class="modal-content">
@@ -7334,7 +7308,7 @@
 <section class="pre-footer">
   <div class="container">
     <p>
-      MyHPBWallet does not hold your keys for you. We cannot access accounts, recover keys, reset passwords, nor reverse transactions. Protect your keys &amp; always check that you are on correct URL.
+      MyHPBWallet only support hardware wallets. It will never support anything else. <b>This is for Your security</b>. If you have a mnemonic phrase, keystore or private key you should use the official HPB mobile wallet (found on official app stores) to access your funds.
       <a role="link" tabindex="0" data-toggle="modal" data-target="#disclaimerModal">
         You are responsible for your security.
       </a>
